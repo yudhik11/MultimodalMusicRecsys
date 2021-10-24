@@ -5,4 +5,6 @@ Official Repository of "Multimodal Fusion Based Attentive Networks for Sequentia
 
 Kunal Vaswani, Yudhik Agrawal, Vinoo Alluri
 
-`Code will pe made public soon`
+`Run code using: python run.py`
+
+`Data will pe made public soon`
